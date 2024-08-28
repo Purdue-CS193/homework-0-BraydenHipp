@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
- Brayden's First CS193 Homework
+ # Brayden's First CS193 Homework
 
 - I like how the class is super chill and isn't that much work
 - I like how there aren't any quizzes or tests
