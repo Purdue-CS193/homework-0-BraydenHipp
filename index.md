@@ -19,8 +19,7 @@ Syntax highlighted code block
 - List
 
 1. Numbered
-2. List
-3. Hello I Am Brayden
+2. List 67
 
 **Bold** and _Italic_ and `Code` text
 
